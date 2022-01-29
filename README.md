@@ -1,4 +1,4 @@
- 
+ ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Resources/20-5-challenge-image.png)
 
 # Solidity Smart Contracts: Joint Savings Account Example
 This repo features a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account.
