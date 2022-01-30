@@ -103,10 +103,10 @@ To interact with your deployed smart contract, complete the following steps:
     
     ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot6Withdraw5ETHstep2.png)
     
-     ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot6Withdraw5ETHstep3.png)
+    ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot6Withdraw5ETHstep3.png)
      
-  Withdraw 10 ETH from Account two: 
+Withdraw 10 ETH: 
   
-     ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot6Withdraw10ETHstep1.png)
+     ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot7Withdraw10ETHstep1.png)
      
-     ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot6Withdraw10ETHstep2.png)
+     ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot7Withdraw10ETHstep2.png)
