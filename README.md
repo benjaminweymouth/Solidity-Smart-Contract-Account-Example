@@ -83,6 +83,10 @@ To interact with your deployed smart contract, complete the following steps:
     * Transaction 2: Send 10 ether as wei.
     
    ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot4AddedWeitoContract10ETH.PNG)
+   
+   ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot4AddedWeitoContract10ETHbalanceupdated.png)
+   
+  
 
     * Transaction 3: Send 5 ether.
 
