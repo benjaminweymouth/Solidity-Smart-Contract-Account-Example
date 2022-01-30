@@ -12,7 +12,7 @@ The smart contract will use ETH management functions to implement a fictitious f
 
 2. Open the Solidity File in the Remix IDE. 
 
-## Code explanation 
+## Screenshots & Code Explanation 
 
 1. Notice the following variables in the new contract:
 
@@ -21,7 +21,7 @@ The smart contract will use ETH management functions to implement a fictitious f
     * A variable of type `address public` named `lastToWithdraw`
 
     * Two variables of type `uint public` named `lastWithdrawAmount` and `contractBalance`
-
+ ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/codeexplanation1.PNG)
 
 2. Notice a function named `withdraw` that accepts two arguments: `amount` of type `uint` and `recipient` of type `payable address`. In this function, code the following:
 
@@ -36,21 +36,30 @@ The smart contract will use ETH management functions to implement a fictitious f
     * Set `lastWithdrawAmount` equal to `amount`.
 
     * Set the `contractBalance` variable equal to the balance of the contract by using `address(this).balance` to reflect the new balance of the contract.
+ ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/codeexplanation2.PNG)
 
-
-5. Notice a `public payable` function named `deposit`. In this function, notice that it:
+3. Notice a `public payable` function named `deposit`. In this function, notice that it:
 
     * Sets the `contractBalance` variable equal to the balance of the contract by using `address(this).balance`.
 
-6. Notice that there is a `public` function named `setAccounts` that takes two `address payable` arguments, named `account1` and `account2`. In the body of the function, notice that it sets the values of `accountOne` and `accountTwo` to `account1` and `account2`, respectively.
+ ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/codeexplanation3.PNG)
 
-7. Notice there is a fallback function so that your contract can store ether that’s sent from outside the deposit function.
+4. Notice that there is a `public` function named `setAccounts` that takes two `address payable` arguments, named `account1` and `account2`. In the body of the function, notice that it sets the values of `accountOne` and `accountTwo` to `account1` and `account2`, respectively.
+
+5. Notice there is a fallback function so that your contract can store ether that’s sent from outside the deposit function.
+
+ ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/codeexplanation4.PNG)
 
 #### Step 2: Compile and Deploy Your Contract in the JavaScript VM
 
 1. Compile your smart contract. If an error occurs, review your code, and make the necessary changes for a successful compilation.
 
+ ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot1compile.PNG)
+
 2. In the Remix IDE, navigate to the “Deploy & Run Transactions” pane, and then make sure that “JavaScript VM” is selected as the environment.
+
+ ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot2JSandDeploy.PNG)
+
 
 3. Click the Deploy button to deploy your smart contract, and then confirm that it successfully deployed.
 
