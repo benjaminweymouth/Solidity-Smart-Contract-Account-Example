@@ -105,7 +105,7 @@ To interact with your deployed smart contract, complete the following steps:
     
     ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot6Withdraw5ETHstep3.png)
     
-    4. Withdraw 10 ETH from Account 2 and verify the transaction 
+4. Withdraw 10 ETH from Account 2 and verify the transaction 
     
      ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot7Withdraw10ETHstep1.png)
      
