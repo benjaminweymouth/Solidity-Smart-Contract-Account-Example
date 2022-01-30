@@ -111,4 +111,6 @@ To interact with your deployed smart contract, complete the following steps:
      
      ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot7Withdraw10ETHstep2.png)
      
+ ## Conclusion
  
+ The smart contract was compiled and deployed successfully. The contract allowed for deposits of ETH in wei. The deposits were verified, and they were for the appropriate amount. The withdrawal function was also successful and worked in tandem to show the amount withdrawn and the recipients address. 
