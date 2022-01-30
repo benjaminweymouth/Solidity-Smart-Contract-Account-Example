@@ -54,7 +54,7 @@ The smart contract will use ETH management functions to implement a fictitious f
 
 1. Compile your smart contract. If an error occurs, review your code, and make the necessary changes for a successful compilation.
 
- ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot1compileV2.PNG)
+ ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot1compilev2.PNG)
 
 2. In the Remix IDE, navigate to the “Deploy & Run Transactions” pane, and then make sure that “JavaScript VM” is selected as the environment.
 
