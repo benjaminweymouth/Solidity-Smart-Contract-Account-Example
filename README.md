@@ -58,10 +58,12 @@ The smart contract will use ETH management functions to implement a fictitious f
 
 2. In the Remix IDE, navigate to the “Deploy & Run Transactions” pane, and then make sure that “JavaScript VM” is selected as the environment.
 
- ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot2JSandDeploy.PNG)
+ ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/deployment.PNG)
 
 
 3. Click the Deploy button to deploy your smart contract, and then confirm that it successfully deployed.
+
+ ![SoliditySmartContract](https://github.com/benjaminweymouth/Solidity-Smart-Contract-Account-Example/blob/main/Execution_Results/Screenshot2JSandDeploy.PNG)
 
 #### Step 3: Interact with Your Deployed Smart Contract
 
